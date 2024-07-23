@@ -3,11 +3,11 @@ This project is a clone of the Netflix homepage , created using only HTML , and 
 
 ## Features 
 -> Responsive design<br>
--> Replicated heade with navigation<br>
+-> Replicated header with navigation<br>
 -> Hero section with backgground image and call to action<br>
 -> Grid layout for movie/TV show thumbnails<br>
 -> Footer with links<br>
 
 ## Techaologies Used 
--> HTML
--> CSS
+-> HTML<br>
+-> CSS<br>
